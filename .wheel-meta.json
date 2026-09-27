@@ -1,0 +1,19 @@
+{
+  "wheel_id": 310,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsaustralia-150",
+  "project": "garage-door-repairs-brisbane-c1360f3921ebb1835d001812a891c1af6c",
+  "parent_t1_ref": "garagedoorrepairsaustralia-001",
+  "node_role": "buffer",
+  "money_target": "garagedoorrepairsaustralia.com.au",
+  "primary_kw": "garage door repairs brisbane",
+  "intended_url": "http://garage-door-repairs-brisbane-c1360f3921ebb1835d001812a891c1af6c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "d94bee44b99b0066",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/garage-door-repairs-brisbane/",
+      "anchor": "garage door repairs brisbane",
+      "rel": "follow"
+    }
+  ]
+}
